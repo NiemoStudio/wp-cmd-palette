@@ -16,3 +16,5 @@ tsconfig.app.tsbuildinfo
 tsconfig.json
 tsconfig.node.json
 vite.config.ts
+components.json
+public/
