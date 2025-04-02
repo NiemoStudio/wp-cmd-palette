@@ -1,0 +1,17 @@
+.yarn
+node_modules
+
+src
+*.cjs
+*.mjs
+
+Files
+eslint.config.js
+index.html
+package-lock.json
+package.json
+tsconfig.app.json
+tsconfig.app.tsbuildinfo
+tsconfig.json
+tsconfig.node.json
+vite.config.ts
