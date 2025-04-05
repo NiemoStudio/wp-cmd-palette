@@ -3,7 +3,7 @@
 /**
  * Plugin Name: WP Command Palette
  * Description: A customizable command palette (CMD/CTRL + K) for WordPress.
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author: Niemo
  * Author URI: https://niemo.be
  * License: GPL v2 or later
@@ -16,7 +16,7 @@ if (!defined('ABSPATH')) {
   exit;
 }
 
-define('WP_CMD_PALETTE_VERSION', '1.0.0');
+define('WP_CMD_PALETTE_VERSION', '1.0.1');
 define('WP_CMD_PALETTE_PATH', plugin_dir_path(__FILE__));
 define('WP_CMD_PALETTE_URL', plugin_dir_url(__FILE__));
 define('WP_CMD_PALETTE_BASENAME', plugin_basename(__FILE__));
